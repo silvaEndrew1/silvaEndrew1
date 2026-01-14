@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Endrew Silva | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/endrew-silva-14734914a/)[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:silva.endrew1@gmail.com)[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5518996255359)
 
 
-### 🚀 Analista de Sistemas | Desenvolvedor em Python | IA aplicada a negócios e automação de processos
+### 🚀 Analista de Sistemas | IA aplicada a negócios e automação de processos | Desenvolvedor em Python 
 
 Sou formado em Tecnologia em Análise e Desenvolvimento de Sistemas pelo Centro Universitário de Adamantina (FAI) e atuo no desenvolvimento de soluções em Python, com foco em inteligência artificial e automação de processos.
 
