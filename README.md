@@ -13,7 +13,7 @@ Tenho perfil versátil, facilidade de aprendizado e boa capacidade de adaptaçã
 
 ---
 
-### 💻🚀 Stack Técnica:
+### 🚀 Stack Técnica:
 
 **Linguagens e Backend**
 - Python
