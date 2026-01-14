@@ -3,8 +3,13 @@
 
 ### 🚀 Analista de Sistemas | Desenvolvedor em Python | IA aplicada a negócios e automação de processos
 
-Desenvolvedor formado em Análise e Desenvolvimento de Sistemas, com foco na criação de soluções em Python utilizando inteligência artificial para automação, geração de conteúdo e apoio à tomada de decisão.
-Atualmente em transição de carreira, construindo projetos práticos voltados a problemas reais de negócio.
+Sou formado em Tecnologia em Análise e Desenvolvimento de Sistemas pelo Centro Universitário de Adamantina (FAI) e atuo no desenvolvimento de soluções em Python, com foco em inteligência artificial e automação de processos.
+
+Tenho experiência na criação de aplicações práticas utilizando LLMs, integração com APIs e interfaces web, sempre buscando resolver problemas reais de negócio, aumentar eficiência operacional e reduzir custos.
+
+Atualmente estou em transição de carreira para a área de tecnologia, desenvolvendo projetos próprios para portfólio e buscando oportunidades como Desenvolvedor Python ou áreas correlatas, onde eu possa aplicar meus conhecimentos técnicos, evoluir profissionalmente e gerar valor para a empresa.
+
+Tenho perfil versátil, facilidade de aprendizado e boa capacidade de adaptação a novos desafios.
 
 ---
 
