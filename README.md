@@ -19,9 +19,9 @@ Aplicação web que utiliza IA (Llama 3.3) para gerar conteúdo de marketing oti
 
 **Tecnologias:** Python, Streamlit, LangChain, Groq API
 
-**[Ver Projeto →](https://github.com/seu-usuario/gerador-conteudo-marketing)**
+**[Ver Projeto →](https://github.com/silvaEndrew1/Gerador-Conteudo-Marketing)**
 
-![Demo](https://raw.githubusercontent.com/seu-usuario/gerador-conteudo-marketing/main/assets/demo.gif)
+![Demo](https://github.com/silvaEndrew1/Gerador-Conteudo-Marketing/blob/main/assets/demo.gif)
 
 </details>
 
