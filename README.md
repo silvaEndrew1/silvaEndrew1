@@ -20,8 +20,9 @@ Tenho perfil versátil, facilidade de aprendizado e boa capacidade de adaptaçã
 
 **Inteligência Artificial**
 - LLMs (Llama 3)
-- LangChain
-- Integração com APIs de IA (Groq)
+- LangChain - Framework para LLMs
+- Groq - Integração com APIs de IA
+- HuggingFace - Modelo de embeddings
 
 **Interfaces**
 - Streamlit
@@ -43,6 +44,19 @@ Aplicação web que utiliza IA (Llama 3.3) para gerar conteúdo de marketing oti
 **[Ver Projeto →](https://github.com/silvaEndrew1/Gerador-Conteudo-Marketing)**
 
 ![Demo](https://github.com/silvaEndrew1/Gerador-Conteudo-Marketing/blob/main/assets/demo.gif)
+
+</details>
+
+<details>
+<summary>🤖 Chatbot RAG Safebank</summary>
+  
+Aplicação de Inteligência Artificial para atendimento automatizado que utiliza RAG (Retrieval-Augmented Generation) para responder perguntas com base em documentos reais da empresa, como manuais, FAQs e bases de conhecimento.
+
+**Tecnologias:** Python, Streamlit, LangChain, Groq API, FAISS, HuggingFace
+
+**[Ver Projeto →](https://github.com/silvaEndrew1/Chatbot-RAG-Safebank)**
+
+![Demo]
 
 </details>
 
