@@ -23,6 +23,10 @@ Tenho perfil versátil, facilidade de aprendizado e boa capacidade de adaptaçã
 - LangChain - Framework para LLMs
 - Groq - Integração com APIs de IA
 - HuggingFace - Modelo de embeddings
+- RAG (Retrieval-Augmented Generation)
+- FAISS - Banco Vetorial
+- Embeddings e busca semântica
+- Processamento de PDfs (PyMuPDF)
 
 **Interfaces**
 - Streamlit
